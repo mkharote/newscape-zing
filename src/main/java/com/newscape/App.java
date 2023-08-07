@@ -9,6 +9,7 @@ public class App {
 	public static void main(String[] args) {
 		SpringApplication.run(App.class, args);
 
+		//Added sout for testing
 		System.out.println("Rakhi is working....");
 	}
 

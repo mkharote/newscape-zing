@@ -16,7 +16,7 @@ public class ReverseNumberTest {
 		reverse = num.reverseNum(number);
 		
 		//It will check actual result with expected result.
-		assertEquals(125, reverse);
+		assertEquals(123, reverse);
 		
 	}
 }
